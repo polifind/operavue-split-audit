@@ -1,0 +1,5 @@
+clip_id,case_id,source_video_id,split,patient_group_id,site_id,device_id
+synthetic-clip-001-left,synthetic-case-001,synthetic-video-001-left,train,synthetic-patient-001,synthetic-site-A,synthetic-device-A
+synthetic-clip-001-right,synthetic-case-001,synthetic-video-001-right,train,synthetic-patient-001,synthetic-site-A,synthetic-device-A
+synthetic-clip-002,synthetic-case-002,synthetic-video-002,validation,synthetic-patient-002,synthetic-site-A,synthetic-device-A
+synthetic-clip-003,synthetic-case-003,synthetic-video-003,test,synthetic-patient-003,synthetic-site-B,synthetic-device-B
