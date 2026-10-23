@@ -2,7 +2,7 @@
 
 A small, local Python tool for checking whether clips assigned to train, validation, and test sets share a source case, recording, or known patient group. It helps researchers inspect a split manifest before evaluating a model.
 
-Published by [Operavue](https://operavue.com/resources#split-audit), a commercial surgical-data company. The included example is entirely synthetic and contains no patient data. This educational toolkit does not represent clinical-data inventory or a validated clinical system.
+Published by [Operavue](https://operavue.com/resources/surgical-video-split-audit), a commercial surgical-data company. The included example is entirely synthetic and contains no patient data. This educational toolkit does not represent clinical-data inventory or a validated clinical system.
 
 ## Run the example
 
